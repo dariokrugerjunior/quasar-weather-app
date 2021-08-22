@@ -6,6 +6,7 @@
   "author": "Dario Kruger Junior <krugerdario1@gmail.com>",
   "private": true,
   "scripts": {
+    "dev": "quasar dev",
     "lint": "eslint --ext .js,.vue ./",
     "test": "echo \"No test specified\" && exit 0"
   },
